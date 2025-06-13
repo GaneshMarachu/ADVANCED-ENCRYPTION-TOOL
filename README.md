@@ -25,3 +25,7 @@ The implementation also includes error handling for common mistakes such as inco
 The tool is kept modular and simple on purpose, making it easier to extend with features like a GUI, drag-and-drop interface, or even integration with cloud storage encryption. The current implementation is ideal for learning, experimenting, and getting comfortable with real-world cryptographic workflows.
 
 In summary, this encryption-decryption tool is a robust, secure, and easy-to-use Python application that highlights the strength and importance of AES-256 in cybersecurity. It aligns well with the goal of demonstrating real-world security mechanisms and provides a solid foundation for further exploration in file security and cryptographic programming.
+
+output:
+
+![Image](https://github.com/user-attachments/assets/88546fdf-6ddd-4fd5-b791-a7145a2f6754)
